@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/Employee management system"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="mysql-connector-j-8.0.31.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31.jar!/"/>
+	</lib>
+	<lib name="rs2xml.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/lib/rs2xml.jar!/src"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/lib/rs2xml.jar!/src"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/rs2xml.jar!/"/>
+	</lib>
+</component>
